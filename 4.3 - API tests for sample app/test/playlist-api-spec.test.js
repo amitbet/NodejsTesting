@@ -22,7 +22,7 @@ describe("Playlist Server Interface", () => {
 
       childProc = cp.exec(
         "node src/app.js",
-        { cwd: "../4.1 - Sample App/BackEnd" },
+        { cwd: "../4.1 - Sample App & Testing/BackEnd" },
         (err, stdout, stderr) => {
           if (err) {
             console.error(`exec error: ${err}`);

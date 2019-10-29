@@ -1,5 +1,5 @@
 {
-  "name": "puppeteer-test",
+  "name": "test-demo",
   "version": "1.0.0",
   "description": "",
   "main": "index.js",
@@ -11,7 +11,7 @@
   "devDependencies": {
     "chai": "^4.2.0",
     "mocha": "^6.2.1",
-    "sinon": "^7.3.2"
+    "sinon": "^7.5.0"
   },
   "dependencies": {
     "@types/mocha": "^5.2.7",

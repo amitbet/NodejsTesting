@@ -4,7 +4,7 @@
   "description": "",
   "main": "index.js",
   "scripts": {
-    "test": "mocha ./src/*spec*.js --exit -s 0"
+    "test": "mocha ./spec/*spec*.js --exit -s 0"
   },
   "author": "amit bezalel",
   "license": "ISC",
